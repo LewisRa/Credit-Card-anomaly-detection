@@ -6,3 +6,5 @@ Throughout the financial sector, machine learning algorithms are being developed
 
 *Note: Most code is taken from Credit Card Fraud Detection | Eduonix
 https://www.youtube.com/watch?v=gCWBFyFTxVU
+
+Download data from https://github.com/eduonix/creditcardML
